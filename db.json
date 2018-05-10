@@ -1,0 +1,323 @@
+{"_id":{"$oid":"5ae837bd12a1dc354c3bf864"},"code":"175006","name":"שעון גאומטרי","price":{"$numberInt":"240"},"quantity":"3","category":"שעונים"}
+{"_id":{"$oid":"5ae838bc12a1dc354c3bf865"},"code":"175572","name":"שעון זהב מרובע","price":{"$numberInt":"239"},"quantity":"2","category":"שעונים"}
+{"_id":{"$oid":"5ae838f612a1dc354c3bf866"},"code":"175145/37","name":"שעון מרובע עץ","price":{"$numberInt":"279"},"quantity":"2","category":"שעונים"}
+{"_id":{"$oid":"5ae8391012a1dc354c3bf867"},"code":"175144/37","name":"שעון מרובע לבן","price":{"$numberInt":"279"},"quantity":"2","category":"שעונים"}
+{"_id":{"$oid":"5ae8394c12a1dc354c3bf868"},"code":"S100","name":"שעון לבן עגול","price":{"$numberInt":"303"},"quantity":"1","category":"שעונים"}
+{"_id":{"$oid":"5ae8397812a1dc354c3bf869"},"code":"S101","name":"שעון זהב עגול","price":{"$numberInt":"439"},"quantity":"1","category":"שעונים"}
+{"_id":{"$oid":"5ae839f612a1dc354c3bf86b"},"code":"s102","name":"שעון שחור עגול","price":{"$numberInt":"439"},"quantity":"1","category":"שעונים"}
+{"_id":{"$oid":"5ae83a1312a1dc354c3bf86c"},"code":"s103","name":"שעון כסף עגול","price":{"$numberInt":"343"},"quantity":"1","category":"שעונים"}
+{"_id":{"$oid":"5ae83a4512a1dc354c3bf86d"},"code":"s104","name":"שעון מרובע עץ שילוב שחור","price":{"$numberInt":"239"},"quantity":"1","category":"שעונים"}
+{"_id":{"$oid":"5ae83a5b12a1dc354c3bf86e"},"code":"s105","name":"שעון זהב אותיות בולטות","price":{"$numberInt":"199"},"quantity":"1","category":"שעונים"}
+{"_id":{"$oid":"5ae83a6f12a1dc354c3bf86f"},"code":"175212","name":"שעון שולחני","price":{"$numberInt":"198"},"quantity":"3","category":"שעונים"}
+{"_id":{"$oid":"5ae83aab12a1dc354c3bf870"},"code":"s106","name":"שעון זהב עגול עבה","price":{"$numberInt":"390"},"quantity":"2","category":"שעונים"}
+{"_id":{"$oid":"5ae83ac412a1dc354c3bf871"},"code":"732","name":"שעון יד עץ","price":{"$numberInt":"48"},"quantity":"1","category":"שעונים"}
+{"_id":{"$oid":"5ae83ae612a1dc354c3bf872"},"code":"733","name":"שעון הגה קטן","price":{"$numberInt":"72"},"quantity":"3","category":"שעונים"}
+{"_id":{"$oid":"5ae83b0112a1dc354c3bf873"},"code":"734","name":"שעון הגה גדול","price":{"$numberInt":"109"},"quantity":"2","category":"שעונים"}
+{"_id":{"$oid":"5ae83b1812a1dc354c3bf874"},"code":"736","name":"שעון קוקיה","price":{"$numberInt":"76"},"quantity":"2","category":"שעונים"}
+{"_id":{"$oid":"5ae83b2b12a1dc354c3bf875"},"code":"s111","name":"שעון צדפים","price":{"$numberInt":"40"},"quantity":"2","category":"שעונים"}
+{"_id":{"$oid":"5ae83b4612a1dc354c3bf876"},"code":"s112","name":"שעוני עץ קטנים","price":{"$numberInt":"25"},"quantity":"בערך 30","category":"שעונים"}
+{"_id":{"$oid":"5ae83b8b12a1dc354c3bf878"},"code":"890","name":"מנורת רצפה 3 רגלים","price":{"$numberInt":"750"},"quantity":"2","category":"כללי"}
+{"_id":{"$oid":"5ae83baa12a1dc354c3bf879"},"code":"891","name":"מנורת שינה רגל מסוכלות","price":{"$numberInt":"290"},"quantity":"4","category":"כללי"}
+{"_id":{"$oid":"5ae83bcd12a1dc354c3bf87a"},"code":"401","name":"מנורת תריס שחור/לבן","price":{"$numberInt":"150"},"quantity":"4","category":"כללי"}
+{"_id":{"$oid":"5ae83bdd12a1dc354c3bf87b"},"code":"503","name":"מנורת רחוב","price":{"$numberInt":"500"},"quantity":"1","category":"כללי"}
+{"_id":{"$oid":"5ae83bf412a1dc354c3bf87c"},"code":"505","name":"מנורת רצפה שחורה 3 רגלים עבות","price":{"$numberInt":"520"},"quantity":"1","category":"כללי"}
+{"_id":{"$oid":"5ae83c1812a1dc354c3bf87d"},"code":"s113","name":"מנורת שינה 3 רגלים","price":{"$numberInt":"152"},"quantity":"2","category":"כללי"}
+{"_id":{"$oid":"5ae83c2a12a1dc354c3bf87e"},"code":"s114","name":"מנורת שינה רגל עבה","price":{"$numberInt":"119"},"quantity":"2","category":"כללי"}
+{"_id":{"$oid":"5ae83c9712a1dc354c3bf87f"},"code":"175673","name":"מדפים זהב 3 שלבים","price":{"$numberInt":"470"},"quantity":"3","category":"מדפים"}
+{"_id":{"$oid":"5ae83cc012a1dc354c3bf880"},"code":"170308","name":"מדפים זהב 3 שלבים צר","price":{"$numberInt":"470"},"quantity":"2","category":"מדפים"}
+{"_id":{"$oid":"5ae83cda12a1dc354c3bf881"},"code":"175653","name":"מדפים זהב 3 שלבים+תליה","price":{"$numberInt":"470"},"quantity":"2","category":"מדפים"}
+{"_id":{"$oid":"5ae83cec12a1dc354c3bf882"},"code":"170313","name":"מדפים זהב עגול","price":{"$numberInt":"470"},"quantity":"3","category":"מדפים"}
+{"_id":{"$oid":"5ae83d2e12a1dc354c3bf884"},"code":"175252","name":"3 סלסלאות","price":{"$numberInt":"430"},"quantity":"2","category":"מדפים"}
+{"_id":{"$oid":"5ae83d4f12a1dc354c3bf885"},"code":"s115","name":"מדפים שחור/לבן+תליה","price":{"$numberInt":"175"},"quantity":"7","category":"מדפים"}
+{"_id":{"$oid":"5ae83dc912a1dc354c3bf887"},"code":"477","name":"מדפים לבן לרוחב","price":{"$numberInt":"125"},"quantity":"1","category":"מדפים"}
+{"_id":{"$oid":"5ae83dea12a1dc354c3bf888"},"code":"478","name":"מדפים לבן לאורך","price":{"$numberInt":"110"},"quantity":"1","category":"מדפים"}
+{"_id":{"$oid":"5ae83e0c12a1dc354c3bf889"},"code":"s117","name":"אדנית מתכת","price":{"$numberInt":"79"},"quantity":"2","category":"מדפים"}
+{"_id":{"$oid":"5ae83e4012a1dc354c3bf88a"},"code":"s118","name":"מעמד 3 מדפי מתכת לבן","price":{"$numberInt":"149"},"quantity":"1","category":"מדפים"}
+{"_id":{"$oid":"5ae83e5a12a1dc354c3bf88b"},"code":"YH15604","name":"אדנית מתכת כפול","price":{"$numberInt":"79"},"quantity":"3","category":"מדפים"}
+{"_id":{"$oid":"5ae83e7012a1dc354c3bf88c"},"code":"YH15603","name":"אדנית מתכת יחיד","price":{"$numberInt":"39"},"quantity":"בערך 2 קרטונים","category":"מדפים"}
+{"_id":{"$oid":"5ae83e9712a1dc354c3bf88d"},"code":"170445","name":"פמוט גלקסיה גדול","price":{"$numberInt":"79"},"quantity":"1","category":"פמוטים"}
+{"_id":{"$oid":"5ae83eab12a1dc354c3bf88e"},"code":"175120","name":"פמוט כוכב גדול","price":{"$numberInt":"55"},"quantity":"5","category":"פמוטים"}
+{"_id":{"$oid":"5ae83ec112a1dc354c3bf88f"},"code":"175122","name":"פמוט כוכב קטן","price":{"$numberInt":"39"},"quantity":"3","category":"פמוטים"}
+{"_id":{"$oid":"5ae83ed512a1dc354c3bf890"},"code":"835","name":"פמוט כוס","price":{"$numberInt":"63"},"quantity":"4","category":"פמוטים"}
+{"_id":{"$oid":"5ae83f2312a1dc354c3bf891"},"code":"170495","name":"פמוט זהב+עיטורים קטן","price":{"$numberInt":"50"},"quantity":"1","category":"פמוטים"}
+{"_id":{"$oid":"5ae83f3512a1dc354c3bf892"},"code":"170495","name":"פמוט זהב+עיטורים גדול","price":{"$numberInt":"60"},"quantity":"2","category":"פמוטים"}
+{"_id":{"$oid":"5ae83f4d12a1dc354c3bf893"},"code":"134","name":"מבער ינשוף","price":{"$numberInt":"20"},"quantity":"17","category":"פמוטים"}
+{"_id":{"$oid":"5ae83f6112a1dc354c3bf894"},"code":"637","name":"פמוט זהב דלי","price":{"$numberInt":"56"},"quantity":"2","category":"פמוטים"}
+{"_id":{"$oid":"5ae83f7d12a1dc354c3bf895"},"code":"175365","name":"פמוט כלוב קטן","price":{"$numberInt":"99"},"quantity":"5","category":"פמוטים"}
+{"_id":{"$oid":"5ae83f9312a1dc354c3bf896"},"code":"175366","name":"פמוט כלוב גדול","price":{"$numberInt":"129"},"quantity":"6","category":"פמוטים"}
+{"_id":{"$oid":"5ae83fab12a1dc354c3bf897"},"code":"175133","name":"פמוט בורג גדול","price":{"$numberInt":"87"},"quantity":"3","category":"פמוטים"}
+{"_id":{"$oid":"5ae83fc712a1dc354c3bf898"},"code":"175134","name":"פמוט בורג בינוני","price":{"$numberInt":"79"},"quantity":"3","category":"פמוטים"}
+{"_id":{"$oid":"5ae83fe312a1dc354c3bf899"},"code":"175135","name":"פמוט בורג קטן","price":{"$numberInt":"65"},"quantity":"3","category":"פמוטים"}
+{"_id":{"$oid":"5ae8400912a1dc354c3bf89a"},"code":"s121","name":"פמוט לבן","price":{"$numberInt":"79"},"quantity":"1","category":"פמוטים"}
+{"_id":{"$oid":"5ae8401f12a1dc354c3bf89b"},"code":"s122","name":"פמוט אקווריום נחושת","price":{"$numberInt":"129"},"quantity":"1","category":"פמוטים"}
+{"_id":{"$oid":"5ae8404012a1dc354c3bf89c"},"code":"s123","name":"פמוט ניקל בינוני","price":{"$numberInt":"79"},"quantity":"1","category":"פמוטים"}
+{"_id":{"$oid":"5ae8405112a1dc354c3bf89d"},"code":"s124","name":"פמוט ניקל גדול","price":{"$numberInt":"99"},"quantity":"1","category":"פמוטים"}
+{"_id":{"$oid":"5ae840b012a1dc354c3bf89e"},"code":"170003/58","name":"מראת קוביות עץ","price":{"$numberInt":"390"},"quantity":"2","category":"מראות"}
+{"_id":{"$oid":"5ae840f612a1dc354c3bf8a0"},"code":"170134","name":"מראת משושים עץ","price":{"$numberInt":"300"},"quantity":"1","category":"מראות"}
+{"_id":{"$oid":"5ae8411112a1dc354c3bf8a1"},"code":"175027","name":"מראת עץ חום בהיר חום כהה","price":{"$numberInt":"390"},"quantity":"1","category":"מראות"}
+{"_id":{"$oid":"5ae8412912a1dc354c3bf8a2"},"code":"170636","name":"מראת משושה זהב ואקריל","price":{"$numberInt":"220"},"quantity":"2","category":"מראות"}
+{"_id":{"$oid":"5ae8414012a1dc354c3bf8a3"},"code":"170436","name":"מראת גלים זהב","price":{"$numberInt":"390"},"quantity":"2","category":"מראות"}
+{"_id":{"$oid":"5ae8415a12a1dc354c3bf8a4"},"code":"175399-175402","name":"מראות תכשיטים","price":{"$numberInt":"99"},"quantity":"10","category":"מראות"}
+{"_id":{"$oid":"5ae8417312a1dc354c3bf8a5"},"code":"170635","name":"מראת מלבן זהב ואקריל","price":{"$numberInt":"220"},"quantity":"2","category":"מראות"}
+{"_id":{"$oid":"5ae8419812a1dc354c3bf8a6"},"code":"s125","name":"מראה מלבן לבן","price":{"$numberInt":"399"},"quantity":"1","category":"מראות"}
+{"_id":{"$oid":"5ae841b812a1dc354c3bf8a7"},"code":"170241","name":"מראת משושים זהב","price":{"$numberInt":"300"},"quantity":"2","category":"מראות"}
+{"_id":{"$oid":"5ae841cf12a1dc354c3bf8a8"},"code":"175012","name":"מראה גאומטרית שחור זהב","price":{"$numberInt":"360"},"quantity":"2","category":"מראות"}
+{"_id":{"$oid":"5ae841e812a1dc354c3bf8a9"},"code":"170303","name":"מראת מעויינים זהב ואקריל","price":{"$numberInt":"99"},"quantity":"3","category":"מראות"}
+{"_id":{"$oid":"5ae8420712a1dc354c3bf8aa"},"code":"170480","name":"מראה זהב עגולה בינונית","price":{"$numberInt":"220"},"quantity":"1","category":"מראות"}
+{"_id":{"$oid":"5ae8421c12a1dc354c3bf8ab"},"code":"17533160","name":"מראה עגולה זהב גדולה","price":{"$numberInt":"359"},"quantity":"1","category":"מראות"}
+{"_id":{"$oid":"5ae8427712a1dc354c3bf8ac"},"code":"170308","name":"מראה עגולה זהב ואקריל","price":{"$numberInt":"140"},"quantity":"1","category":"מראות"}
+{"_id":{"$oid":"5ae8428a12a1dc354c3bf8ad"},"code":"175000","name":"מראה עגולה+2 מדפים","price":{"$numberInt":"380"},"quantity":"1","category":"מראות"}
+{"_id":{"$oid":"5ae842a712a1dc354c3bf8ae"},"code":"772","name":"מראת עץ קטנה","price":{"$numberInt":"80"},"quantity":"3","category":"מראות"}
+{"_id":{"$oid":"5ae842ec12a1dc354c3bf8af"},"code":"175498","name":"מראת עין","price":{"$numberInt":"208"},"quantity":"4","category":"מראות"}
+{"_id":{"$oid":"5ae8435112a1dc354c3bf8b0"},"code":"170268","name":"מראת משושה קטנה","price":{"$numberInt":"95"},"quantity":"4","category":"מראות"}
+{"_id":{"$oid":"5ae8437b12a1dc354c3bf8b1"},"code":"17506910","name":"מראה אינדיאנית","price":{"$numberInt":"259"},"quantity":"1","category":"מראות"}
+{"_id":{"$oid":"5ae843ac12a1dc354c3bf8b2"},"code":"","name":"מראת קריסטל ריבוע","price":{"$numberInt":"624"},"quantity":"2","category":"מראות"}
+{"_id":{"$oid":"5ae843c512a1dc354c3bf8b3"},"code":"160845","name":"מראת שמש","price":{"$numberInt":"100"},"quantity":"בערך 6","category":"מראות"}
+{"_id":{"$oid":"5ae8441312a1dc354c3bf8b4"},"code":"97","name":"מראת תריס","price":{"$numberInt":"90"},"quantity":"בערך 10","category":"מראות"}
+{"_id":{"$oid":"5ae8443a12a1dc354c3bf8b5"},"code":null,"name":"מראת גוף קריסטל","price":{"$numberInt":"288"},"quantity":"2","category":"מראות"}
+{"_id":{"$oid":"5ae8446512a1dc354c3bf8b6"},"code":"s126","name":"מראת קריסטל צרה עיטורים","price":{"$numberInt":"199"},"quantity":"4","category":"מראות"}
+{"_id":{"$oid":"5ae8447b12a1dc354c3bf8b7"},"code":null,"name":"מראת קריסטל מדורגת עגולה ","price":{"$numberInt":"1008"},"quantity":"2","category":"מראות"}
+{"_id":{"$oid":"5ae8449d12a1dc354c3bf8b8"},"code":null,"name":"מראת קריסטל ריבועים","price":{"$numberInt":"624"},"quantity":"2","category":"מראות"}
+{"_id":{"$oid":"5ae844c112a1dc354c3bf8b9"},"code":"s127","name":"מראת קריסטל מלבנית עיטורים","price":{"$numberInt":"545"},"quantity":"1","category":"מראות"}
+{"_id":{"$oid":"5ae844d812a1dc354c3bf8ba"},"code":null,"name":"מראת קריסטל יהלומים מלבנית","price":{"$numberInt":"999"},"quantity":"1","category":"מראות"}
+{"_id":{"$oid":"5ae8450b12a1dc354c3bf8bb"},"code":"1013","name":"מתלה love קריסטל","price":{"$numberInt":"63"},"quantity":"3","category":"מראות"}
+{"_id":{"$oid":"5ae846cd12a1dc354c3bf8bc"},"code":"481","name":"תחתיות home","price":{"$numberInt":"39"},"quantity":"12","category":"כללי"}
+{"_id":{"$oid":"5ae846f512a1dc354c3bf8bd"},"code":"965","name":"תחתיות ינשופים במעמד home","price":{"$numberInt":"39"},"quantity":"5","category":"כללי"}
+{"_id":{"$oid":"5ae8470c12a1dc354c3bf8be"},"code":"966","name":"תחתיות שיש במעמד home","price":{"$numberInt":"39"},"quantity":"4","category":"כללי"}
+{"_id":{"$oid":"5ae8472412a1dc354c3bf8bf"},"code":"964","name":"תחתיות גונגל","price":{"$numberInt":"44"},"quantity":"3","category":"כללי"}
+{"_id":{"$oid":"5ae8473712a1dc354c3bf8c0"},"code":"479","name":"תחתיות תחרה","price":{"$numberInt":"39"},"quantity":"6","category":"כללי"}
+{"_id":{"$oid":"5ae8474d12a1dc354c3bf8c1"},"code":"979","name":"תחתיות קיץ","price":{"$numberInt":"44"},"quantity":"3","category":"כללי"}
+{"_id":{"$oid":"5ae8476412a1dc354c3bf8c2"},"code":"1009","name":"תחתיות קפה","price":{"$numberInt":"39"},"quantity":"16","category":"כללי"}
+{"_id":{"$oid":"5ae8477d12a1dc354c3bf8c3"},"code":"801","name":"home במעמד לבן","price":{"$numberInt":"39"},"quantity":"13","category":"כללי"}
+{"_id":{"$oid":"5ae8479212a1dc354c3bf8c4"},"code":"802","name":"תחתיות לב סגול במעמד","price":{"$numberInt":"39"},"quantity":"10","category":"כללי"}
+{"_id":{"$oid":"5ae847a212a1dc354c3bf8c5"},"code":"818","name":"תחתיות קשירה מרובע","price":{"$numberInt":"39"},"quantity":"5","category":"כללי"}
+{"_id":{"$oid":"5ae847b112a1dc354c3bf8c6"},"code":"1011","name":"תחתיות רטרו","price":{"$numberInt":"39"},"quantity":"6","category":"כללי"}
+{"_id":{"$oid":"5ae8487b12a1dc354c3bf8c7"},"code":"1010","name":"תחתיות ינשופים","price":{"$numberInt":"39"},"quantity":"7","category":"כללי"}
+{"_id":{"$oid":"5ae8488a12a1dc354c3bf8c8"},"code":"1008","name":"תחתיות פרחים","price":{"$numberInt":"39"},"quantity":"8","category":"כללי"}
+{"_id":{"$oid":"5ae8489912a1dc354c3bf8c9"},"code":"819","name":"תחתיות עגול קשירה","price":{"$numberInt":"39"},"quantity":"1","category":"כללי"}
+{"_id":{"$oid":"5ae848b212a1dc354c3bf8ca"},"code":"817","name":"קשירה מרובע+כיתוב","price":{"$numberInt":"39"},"quantity":"1","category":"כללי"}
+{"_id":{"$oid":"5ae848cd12a1dc354c3bf8cb"},"code":"960","name":"תחתיות לסיר פרחים","price":{"$numberInt":"70"},"quantity":"2","category":"כללי"}
+{"_id":{"$oid":"5ae848de12a1dc354c3bf8cc"},"code":"976","name":"תחתיות סיר גונגל","price":{"$numberInt":"70"},"quantity":"2","category":"כללי"}
+{"_id":{"$oid":"5ae848f512a1dc354c3bf8cd"},"code":"978","name":"תחתיות סיר קיץ","price":{"$numberInt":"70"},"quantity":"2","category":"כללי"}
+{"_id":{"$oid":"5ae8490512a1dc354c3bf8ce"},"code":"950","name":"תחתיות סיר בול עץ","price":{"$numberInt":"95"},"quantity":"6","category":"כללי"}
+{"_id":{"$oid":"5ae8491f12a1dc354c3bf8cf"},"code":"961","name":"תחתיות סיר רטרו מעמד home","price":{"$numberInt":"70"},"quantity":"1","category":"כללי"}
+{"_id":{"$oid":"5ae8493812a1dc354c3bf8d0"},"code":"977","name":"תחתיות קיץ מעמד home","price":{"$numberInt":"70"},"quantity":"2","category":"כללי"}
+{"_id":{"$oid":"5ae8494512a1dc354c3bf8d1"},"code":"963","name":"תחתיות כפולות ורוד","price":{"$numberInt":"99"},"quantity":"1","category":"כללי"}
+{"_id":{"$oid":"5ae8495012a1dc354c3bf8d2"},"code":"962","name":"תחתיות כפולות סגול","price":{"$numberInt":"99"},"quantity":"1","category":"כללי"}
+{"_id":{"$oid":"5ae8498c12a1dc354c3bf8d3"},"code":"752","name":"פמוט קטן קריסטל זהב","price":{"$numberInt":"51"},"quantity":"1","category":"פמוטים"}
+{"_id":{"$oid":"5ae849a312a1dc354c3bf8d5"},"code":"753","name":"פמוט קריסטל זהב בינוני","price":{"$numberInt":"59"},"quantity":"1","category":"פמוטים"}
+{"_id":{"$oid":"5ae849b712a1dc354c3bf8d6"},"code":"754","name":"פמוט גדול קריסטל זהב","price":{"$numberInt":"67"},"quantity":"1","category":"פמוטים"}
+{"_id":{"$oid":"5ae849cc12a1dc354c3bf8d7"},"code":"755","name":"פמוט קטן יהלום","price":{"$numberInt":"55"},"quantity":"1","category":"פמוטים"}
+{"_id":{"$oid":"5ae849de12a1dc354c3bf8d8"},"code":"756","name":"פמוט בינוני יהלום","price":{"$numberInt":"63"},"quantity":"1","category":"פמוטים"}
+{"_id":{"$oid":"5ae849fa12a1dc354c3bf8d9"},"code":"757","name":"פמוט גדול יהלום","price":{"$numberInt":"71"},"quantity":"1","category":"פמוטים"}
+{"_id":{"$oid":"5ae84a0712a1dc354c3bf8da"},"code":null,"name":"פמוט זהב כפול","price":{"$numberInt":"99"},"quantity":"1","category":"פמוטים"}
+{"_id":{"$oid":"5ae84a1812a1dc354c3bf8db"},"code":"758","name":"פמוט כסף קטן","price":{"$numberInt":"51"},"quantity":"1","category":"פמוטים"}
+{"_id":{"$oid":"5ae84a2912a1dc354c3bf8dc"},"code":"759","name":"פמוט כסף בינוני","price":{"$numberInt":"59"},"quantity":"1","category":"פמוטים"}
+{"_id":{"$oid":"5ae84a3d12a1dc354c3bf8de"},"code":"760","name":"פמוט כסף גדול","price":{"$numberInt":"67"},"quantity":"1","category":"פמוטים"}
+{"_id":{"$oid":"5ae84a5e12a1dc354c3bf8df"},"code":"","name":"פמוט כסף 4 קריסטלים","price":{"$numberInt":"79"},"quantity":"3","category":"פמוטים"}
+{"_id":{"$oid":"5ae84a6c12a1dc354c3bf8e0"},"code":null,"name":"פמוט זהב שנדליר","price":{"$numberInt":"120"},"quantity":"3","category":"פמוטים"}
+{"_id":{"$oid":"5ae84a8112a1dc354c3bf8e1"},"code":"762","name":"שלישיית פמוטים זהב","price":{"$numberInt":"150"},"quantity":"3","category":"פמוטים"}
+{"_id":{"$oid":"5ae84a9312a1dc354c3bf8e2"},"code":"761","name":"שלישית פמוטים קריסטל","price":{"$numberInt":"150"},"quantity":"4","category":"פמוטים"}
+{"_id":{"$oid":"5ae84aae12a1dc354c3bf8e3"},"code":"634","name":"שלישית פמוטים נחושת","price":{"$numberInt":"157"},"quantity":"3","category":"פמוטים"}
+{"_id":{"$oid":"5ae84ac012a1dc354c3bf8e4"},"code":"644","name":"זוג פמוטים זהב קטנים","price":{"$numberInt":"70"},"quantity":"2","category":"פמוטים"}
+{"_id":{"$oid":"5ae84acf12a1dc354c3bf8e5"},"code":"643","name":"זוג פמוטים זהב בינוני","price":{"$numberInt":"80"},"quantity":"2","category":"פמוטים"}
+{"_id":{"$oid":"5ae84ade12a1dc354c3bf8e6"},"code":"642","name":"זוג פמוטים זהב גדול","price":{"$numberInt":"90"},"quantity":"2","category":"פמוטים"}
+{"_id":{"$oid":"5ae84aee12a1dc354c3bf8e7"},"code":"641","name":"זוג פמוטים זהב מחוספס קטן","price":{"$numberInt":"40"},"quantity":"1","category":"פמוטים"}
+{"_id":{"$oid":"5ae84b0212a1dc354c3bf8e8"},"code":"640","name":"זוג פמוטים זהב מחוספס בינוני","price":{"$numberInt":"50"},"quantity":"1","category":"פמוטים"}
+{"_id":{"$oid":"5ae84b6612a1dc354c3bf8eb"},"code":"1002","name":"תמונת אייל עם כובע","price":{"$numberInt":"80"},"quantity":"1","category":"כללי"}
+{"_id":{"$oid":"5ae84bab12a1dc354c3bf8ec"},"code":"273","name":"כרית גאומטרית 44*44","price":{"$numberInt":"50"},"quantity":"","category":"כריות"}
+{"_id":{"$oid":"5ae84bbb12a1dc354c3bf8ed"},"code":"658","name":"כרית גאומטרית 50*50","price":{"$numberInt":"60"},"quantity":null,"category":"כריות"}
+{"_id":{"$oid":"5ae84bcc12a1dc354c3bf8ee"},"code":"657","name":"כרית גאומטרית 60*60","price":{"$numberInt":"100"},"quantity":null,"category":"כריות"}
+{"_id":{"$oid":"5ae84c0312a1dc354c3bf8ef"},"code":null,"name":"שקדיה","price":{"$numberInt":"99"},"quantity":"3","category":"פרחים ועציצים"}
+{"_id":{"$oid":"5ae84c4812a1dc354c3bf8f0"},"code":"849","name":"קקטוס בכלי מאבן","price":{"$numberInt":"50"},"quantity":"3","category":"פרחים ועציצים"}
+{"_id":{"$oid":"5ae84c6012a1dc354c3bf8f1"},"code":null,"name":"שידת כתיבה","price":{"$numberInt":"1100"},"quantity":"1","category":"רהיטים"}
+{"_id":{"$oid":"5ae84c8412a1dc354c3bf8f2"},"code":"850","name":"קקטוס בכלי לבן קטן","price":{"$numberInt":"38"},"quantity":"4","category":"פרחים ועציצים"}
+{"_id":{"$oid":"5ae84c9412a1dc354c3bf8f3"},"code":null,"name":"שידת 5 מגירות","price":{"$numberInt":"990"},"quantity":"2","category":"רהיטים"}
+{"_id":{"$oid":"5ae84cac12a1dc354c3bf8f4"},"code":null,"name":"שידת נעליים נמוכה לבנה","price":{"$numberInt":"260"},"quantity":"1","category":"רהיטים"}
+{"_id":{"$oid":"5ae84d0312a1dc354c3bf8f5"},"code":"176205","name":"מתלה אינדיאני welcome","price":{"$numberInt":"144"},"quantity":"3","category":"אקססוריז"}
+{"_id":{"$oid":"5ae84d3012a1dc354c3bf8f6"},"code":"","name":"עציצוני בד","price":{"$numberInt":"25"},"quantity":"16","category":"פרחים ועציצים"}
+{"_id":{"$oid":"5ae84d5612a1dc354c3bf8f7"},"code":null,"name":"עציצונים בכלי חרסינה","price":{"$numberInt":"25"},"quantity":"בערך 15","category":"פרחים ועציצים"}
+{"_id":{"$oid":"5ae84d7712a1dc354c3bf8f8"},"code":null,"name":"שידת 3 מגירות לבנה","price":{"$numberInt":"689"},"quantity":"2","category":"רהיטים"}
+{"_id":{"$oid":"5ae84d8e12a1dc354c3bf8f9"},"code":null,"name":"שידת 3 מגירות צבעי עץ","price":{"$numberInt":"412"},"quantity":"1","category":"רהיטים"}
+{"_id":{"$oid":"5ae84daf12a1dc354c3bf8fa"},"code":null,"name":"שידה+מגירה ","price":{"$numberInt":"579"},"quantity":"2","category":"רהיטים"}
+{"_id":{"$oid":"5ae84dec12a1dc354c3bf8fb"},"code":"235","name":"תמונת פינגוונים","price":{"$numberInt":"34"},"quantity":"7","category":"אקססוריז"}
+{"_id":{"$oid":"5ae84e1c12a1dc354c3bf8fc"},"code":"680","name":"עציצון קטן בכלי אבן","price":{"$numberInt":"16"},"quantity":"15","category":"פרחים ועציצים"}
+{"_id":{"$oid":"5ae84e3612a1dc354c3bf8fd"},"code":"681","name":"עציצון בכלי אבן","price":{"$numberInt":"17"},"quantity":"9","category":"פרחים ועציצים"}
+{"_id":{"$oid":"5ae84e4c12a1dc354c3bf8fe"},"code":"353","name":"רביעיית עציצים","price":{"$numberInt":"39"},"quantity":"4","category":"פרחים ועציצים"}
+{"_id":{"$oid":"5ae84e6d12a1dc354c3bf8ff"},"code":null,"name":"קקטוס בכלי שחור","price":{"$numberInt":"35"},"quantity":"14","category":"פרחים ועציצים"}
+{"_id":{"$oid":"5ae84e8412a1dc354c3bf900"},"code":null,"name":"קקטוס בכלי אבן לבן","price":{"$numberInt":"50"},"quantity":"5","category":"פרחים ועציצים"}
+{"_id":{"$oid":"5ae84ec312a1dc354c3bf902"},"code":"804","name":"מפיון עץ תכלת/לבן","price":{"$numberInt":"35"},"quantity":"בערך 12","category":"כללי"}
+{"_id":{"$oid":"5ae84ee312a1dc354c3bf903"},"code":"727","name":"קופסאת תרופות מעץ","price":{"$numberInt":"72"},"quantity":"5","category":"כללי"}
+{"_id":{"$oid":"5ae84f1a12a1dc354c3bf904"},"code":"803","name":"מתלה לנייר סופג לבן/תכלת","price":{"$numberInt":"38"},"quantity":"8","category":"כללי"}
+{"_id":{"$oid":"5ae84f5712a1dc354c3bf905"},"code":"220","name":"קופסא אפורה","price":{"$numberInt":"110"},"quantity":"7","category":"אקססוריז"}
+{"_id":{"$oid":"5ae84f7512a1dc354c3bf906"},"code":"763","name":"מתלה לנייר טואלט לבן/תכלת","price":{"$numberInt":"49"},"quantity":"4","category":"כללי"}
+{"_id":{"$oid":"5ae84f9312a1dc354c3bf907"},"code":"764","name":"מעמד לנייר סופג תכלת/לבן","price":{"$numberInt":"49"},"quantity":"3","category":"כללי"}
+{"_id":{"$oid":"5ae84fba12a1dc354c3bf908"},"code":"808","name":"שליישת מגשים לבנה","price":{"$numberInt":"120"},"quantity":"2","category":"כללי"}
+{"_id":{"$oid":"5ae84ffb12a1dc354c3bf909"},"code":"724","name":"סכומון מסתובב מעץ","price":{"$numberInt":"69"},"quantity":"2","category":"כללי"}
+{"_id":{"$oid":"5ae8501c12a1dc354c3bf90a"},"code":"1757232","name":"צנצנת אננס קטנה","price":{"$numberInt":"25"},"quantity":"בערך 10","category":"כללי"}
+{"_id":{"$oid":"5ae8503812a1dc354c3bf90b"},"code":"1757231","name":"צנצנת אננס גדולה","price":{"$numberInt":"35"},"quantity":"בערך 10","category":"כללי"}
+{"_id":{"$oid":"5ae8504c12a1dc354c3bf90c"},"code":"723","name":"סכומון מעץ","price":{"$numberInt":"89"},"quantity":"1","category":"כללי"}
+{"_id":{"$oid":"5ae8507112a1dc354c3bf90d"},"code":"767","name":"זוג קופסאות אהבה","price":{"$numberInt":"160"},"quantity":"2 קרטונים","category":"אקססוריז"}
+{"_id":{"$oid":"5ae8509f12a1dc354c3bf90e"},"code":"768","name":"קופסאת תה","price":{"$numberInt":"68"},"quantity":"קרטון מכל צבע","category":"כללי"}
+{"_id":{"$oid":"5ae850b912a1dc354c3bf90f"},"code":"325","name":"תאריכון קטן","price":{"$numberInt":"28"},"quantity":"3","category":"אקססוריז"}
+{"_id":{"$oid":"5ae8510912a1dc354c3bf910"},"code":"1021","name":"מגש מראות","price":{"$numberInt":"83"},"quantity":"6","category":"כללי"}
+{"_id":{"$oid":"5ae8512812a1dc354c3bf911"},"code":"","name":"אי למטבח לבן ועץ","price":{"$numberInt":"999"},"quantity":"1","category":"רהיטים"}
+{"_id":{"$oid":"5ae8515812a1dc354c3bf912"},"code":"968","name":"שלט home love קטן לבן","price":{"$numberInt":"17"},"quantity":"קרטון מכל אחד","category":"אקססוריז"}
+{"_id":{"$oid":"5ae8519012a1dc354c3bf913"},"code":"799","name":"מכתביה לב","price":{"$numberInt":"89"},"quantity":"3","category":"אקססוריז"}
+{"_id":{"$oid":"5ae851c512a1dc354c3bf914"},"code":"329","name":"מתלה מפתחות ","price":{"$numberInt":"39"},"quantity":"3","category":"אקססוריז"}
+{"_id":{"$oid":"5ae851e012a1dc354c3bf915"},"code":"324","name":"תאריכון בית","price":{"$numberInt":"32"},"quantity":"2","category":"אקססוריז"}
+{"_id":{"$oid":"5ae8524c12a1dc354c3bf917"},"code":"970","name":"מתלה מפתחות בצורת מפתח תכלת/לבן","price":{"$numberInt":"25"},"quantity":"קרטון מכל צבע","category":"אקססוריז"}
+{"_id":{"$oid":"5ae8526512a1dc354c3bf918"},"code":"731","name":"מתלה תבלינים למטבח","price":{"$numberInt":"72"},"quantity":"2 קרטונים","category":"אקססוריז"}
+{"_id":{"$oid":"5ae8528812a1dc354c3bf919"},"code":"327","name":"מעמד קליפסים ומקום לדואר","price":{"$numberInt":"48"},"quantity":"3 קרטונים","category":"אקססוריז"}
+{"_id":{"$oid":"5ae8529a12a1dc354c3bf91a"},"code":"486","name":"מתלה מפתחות home","price":{"$numberInt":"45"},"quantity":"1","category":"אקססוריז"}
+{"_id":{"$oid":"5ae852b512a1dc354c3bf91b"},"code":"728","name":"מתלה מפתחות אפור","price":{"$numberInt":"60"},"quantity":"2 קרטונים","category":"אקססוריז"}
+{"_id":{"$oid":"5ae852d412a1dc354c3bf91c"},"code":"975","name":"מתלה בודד למטבח","price":{"$numberInt":"11"},"quantity":"קרטון","category":"אקססוריז"}
+{"_id":{"$oid":"5ae852f312a1dc354c3bf91d"},"code":"1003","name":"מתלה מפתחות בצורת בית ","price":{"$numberInt":"69"},"quantity":"1","category":"אקססוריז"}
+{"_id":{"$oid":"5ae8530c12a1dc354c3bf91e"},"code":"517","name":"מלחיות אימוגי","price":{"$numberInt":"14"},"quantity":"8","category":"כללי"}
+{"_id":{"$oid":"5ae8532612a1dc354c3bf91f"},"code":"519","name":"מלחיות צדפים","price":{"$numberInt":"14"},"quantity":"3","category":"כללי"}
+{"_id":{"$oid":"5ae8533b12a1dc354c3bf920"},"code":"518","name":"מלחיות פינגווין","price":{"$numberInt":"14"},"quantity":"3","category":"כללי"}
+{"_id":{"$oid":"5ae8538012a1dc354c3bf921"},"code":"320","name":"תאריכון ומקום לעטים","price":{"$numberInt":"55"},"quantity":"2","category":"אקססוריז"}
+{"_id":{"$oid":"5ae8539a12a1dc354c3bf922"},"code":"794","name":"ממו ומקום לתליית תמונות","price":{"$numberInt":"76"},"quantity":"2","category":"אקססוריז"}
+{"_id":{"$oid":"5ae86b9912a1dc354c3bf923"},"code":"967","name":"שלט לבן happy","price":{"$numberInt":"30"},"quantity":"קרטון","category":"אקססוריז"}
+{"_id":{"$oid":"5ae86bca12a1dc354c3bf925"},"code":null,"name":"כד יהלום קטן","price":{"$numberInt":"310"},"quantity":"1","category":"אקססוריז"}
+{"_id":{"$oid":"5ae86c8712a1dc354c3bf927"},"code":"823","name":"ינשוף קטן","price":{"$numberInt":"47"},"quantity":"קרטון","category":"אקססוריז"}
+{"_id":{"$oid":"5ae86c9612a1dc354c3bf928"},"code":"824","name":"ינשוף גדול","price":{"$numberInt":"60"},"quantity":"6","category":"אקססוריז"}
+{"_id":{"$oid":"5ae86ca512a1dc354c3bf929"},"code":"833","name":"ציפור גדולה","price":{"$numberInt":"96"},"quantity":"3","category":"אקססוריז"}
+{"_id":{"$oid":"5ae86cba12a1dc354c3bf92a"},"code":"389","name":"סט חסידות","price":{"$numberInt":"159"},"quantity":"3","category":"אקססוריז"}
+{"_id":{"$oid":"5ae86d8912a1dc354c3bf92b"},"code":"466","name":"זוג מתנשקים","price":null,"quantity":null,"category":"אקססוריז"}
+{"_id":{"$oid":"5ae86d9c12a1dc354c3bf92c"},"code":"326","name":"תאריכון קלפים","price":{"$numberInt":"90"},"quantity":"3","category":"אקססוריז"}
+{"_id":{"$oid":"5ae86dac12a1dc354c3bf92d"},"code":"806","name":"מכתביה כחולה","price":{"$numberInt":"98"},"quantity":"2","category":"אקססוריז"}
+{"_id":{"$oid":"5ae86ea112a1dc354c3bf92e"},"code":null,"name":"פנתר לבן","price":{"$numberInt":"167"},"quantity":"3","category":"אקססוריז"}
+{"_id":{"$oid":"5ae86eb812a1dc354c3bf92f"},"code":"172","name":"שלט home שחור לתליה","price":{"$numberInt":"24"},"quantity":"14","category":"אקססוריז"}
+{"_id":{"$oid":"5ae86ed212a1dc354c3bf930"},"code":"217","name":"home+תמונה צר","price":{"$numberInt":"29"},"quantity":"2","category":"אקססוריז"}
+{"_id":{"$oid":"5ae86eef12a1dc354c3bf931"},"code":"215","name":"home\\love+תמונה","price":{"$numberInt":"31"},"quantity":"5","category":"אקססוריז"}
+{"_id":{"$oid":"5ae86f2412a1dc354c3bf933"},"code":"25","name":"סחלב בכלי אבן","price":{"$numberInt":"31"},"quantity":"5","category":"פרחים ועציצים"}
+{"_id":{"$oid":"5ae8739312a1dc354c3bf934"},"code":"974","name":"מתלה 3 ווים","price":{"$numberInt":"20"},"quantity":"8","category":"אקססוריז"}
+{"_id":{"$oid":"5ae9aab812a1dc354c3bf935"},"code":"682","name":"שישיית קקטוסים","price":{"$numberInt":"69"},"quantity":"2 שישיות","category":"פרחים ועציצים"}
+{"_id":{"$oid":"5ae9aaee12a1dc354c3bf936"},"code":"1031","name":"2 מגירות מעץ","price":{"$numberInt":"239"},"quantity":"2","category":"רהיטים"}
+{"_id":{"$oid":"5ae9ab1a12a1dc354c3bf937"},"code":"649","name":"תיבת דואר שמנת","price":{"$numberInt":"132"},"quantity":"4","category":"אקססוריז"}
+{"_id":{"$oid":"5ae9ab3612a1dc354c3bf938"},"code":"983","name":"שולחן בול עץ קטן","price":{"$numberInt":"119"},"quantity":"4","category":"רהיטים"}
+{"_id":{"$oid":"5ae9ab5712a1dc354c3bf939"},"code":"821","name":"רביעיית ארנבים","price":{"$numberInt":"167"},"quantity":"6","category":"אקססוריז"}
+{"_id":{"$oid":"5ae9abdc12a1dc354c3bf93a"},"code":"722","name":"מכתביה צבע בז","price":{"$numberInt":"62"},"quantity":"6","category":"אקססוריז"}
+{"_id":{"$oid":"5ae9ac2a12a1dc354c3bf93b"},"code":"288","name":"כלוב שחור","price":{"$numberInt":"49"},"quantity":"15 ","category":"אקססוריז"}
+{"_id":{"$oid":"5ae9ac6812a1dc354c3bf93c"},"code":"175378","name":"2 מדפי זהב +סלסלה","price":{"$numberInt":"470"},"quantity":"2","category":"מדפים"}
+{"_id":{"$oid":"5ae9aca712a1dc354c3bf93d"},"code":"798","name":"תאריכון today","price":{"$numberInt":"60"},"quantity":"4","category":"אקססוריז"}
+{"_id":{"$oid":"5ae9acf912a1dc354c3bf93e"},"code":"826","name":"קערת איל גדולה","price":{"$numberInt":"71"},"quantity":"5","category":"כללי"}
+{"_id":{"$oid":"5ae9ad1612a1dc354c3bf93f"},"code":"270","name":"ואזה קרמיקה","price":{"$numberInt":"31"},"quantity":"15","category":"אקססוריז"}
+{"_id":{"$oid":"5ae9ad7312a1dc354c3bf940"},"code":"1034","name":"פח +טישו קלוע","price":{"$numberInt":"199"},"quantity":"2","category":"אקססוריז"}
+{"_id":{"$oid":"5ae9ada412a1dc354c3bf941"},"code":"386","name":"פסל סוס","price":{"$numberInt":"139"},"quantity":"2","category":"אקססוריז"}
+{"_id":{"$oid":"5ae9adba12a1dc354c3bf942"},"code":"63321","name":"מתלה פרחים","price":{"$numberInt":"24"},"quantity":"6","category":"אקססוריז"}
+{"_id":{"$oid":"5ae9adca12a1dc354c3bf943"},"code":"467","name":"בלרינה","price":{"$numberInt":"79"},"quantity":"11","category":"אקססוריז"}
+{"_id":{"$oid":"5ae9ae0112a1dc354c3bf944"},"code":"284+285+286","name":"סט תרנגולים","price":{"$numberInt":"130"},"quantity":"9 ","category":"אקססוריז"}
+{"_id":{"$oid":"5ae9ae1e12a1dc354c3bf945"},"code":"170117","name":"קערות עץ","price":null,"quantity":"10","category":"אקססוריז"}
+{"_id":{"$oid":"5ae9ae3412a1dc354c3bf946"},"code":"388","name":"פסל שור","price":{"$numberInt":"139"},"quantity":"3","category":"אקססוריז"}
+{"_id":{"$oid":"5ae9ae4712a1dc354c3bf947"},"code":"485","name":"טישו קלוע","price":{"$numberInt":"49"},"quantity":"4","category":"כללי"}
+{"_id":{"$oid":"5ae9ae9d12a1dc354c3bf948"},"code":"730","name":"מתלה מפתחות שחור לבן","price":{"$numberInt":"62"},"quantity":"4","category":"אקססוריז"}
+{"_id":{"$oid":"5ae9aeb812a1dc354c3bf949"},"code":"228","name":"חבילת טישו","price":{"$numberInt":"49"},"quantity":"2","category":"אקססוריז"}
+{"_id":{"$oid":"5ae9aef412a1dc354c3bf94a"},"code":"825","name":"קערת איל קטנה","price":{"$numberInt":"60"},"quantity":"6","category":"כללי"}
+{"_id":{"$oid":"5ae9b01a12a1dc354c3bf94b"},"code":"269","name":"קרמיקה קטנה צרה","price":{"$numberInt":"21"},"quantity":"6","category":"אקססוריז"}
+{"_id":{"$oid":"5ae9b04a12a1dc354c3bf94c"},"code":"ch826","name":"לב לתליה","price":{"$numberInt":"5"},"quantity":"קרטון","category":"אקססוריז"}
+{"_id":{"$oid":"5ae9b51012a1dc354c3bf94e"},"code":"tc502","name":"תה קפה סוכר כסוף","price":{"$numberInt":"79"},"quantity":"13","category":"כללי"}
+{"_id":{"$oid":"5ae9b52612a1dc354c3bf94f"},"code":"tc501","name":"תה קפה סוכר זהב","price":{"$numberInt":"79"},"quantity":"18","category":"כללי"}
+{"_id":{"$oid":"5af015c5291a8a2478e7e148"},"code":"639","name":"זוג פמוטים זהב מחוספס גדול","price":{"$numberInt":"60"},"quantity":"1","category":"פמוטים"}
+{"_id":{"$oid":"5af0230b291a8a2478e7e149"},"code":"276","name":"כרית מלבנית","price":{"$numberInt":"45"},"quantity":"בערך 30","category":"כריות"}
+{"_id":{"$oid":"5af02706291a8a2478e7e14a"},"code":"947","name":"זוג קופסאות קלועות","price":{"$numberInt":"109"},"quantity":"1","category":"אקססוריז"}
+{"_id":{"$oid":"5af02726291a8a2478e7e14b"},"code":"663","name":"כד זכוכית עם ידיות","price":{"$numberInt":"39"},"quantity":"1","category":"זכוכיות"}
+{"_id":{"$oid":"5af0275c291a8a2478e7e14c"},"code":"170311","name":"שלישיית שולחנות זהב ואקריל","price":{"$numberInt":"300"},"quantity":"2","category":"רהיטים"}
+{"_id":{"$oid":"5af027bb291a8a2478e7e14d"},"code":"161303","name":"שולחן עץ לעיתונים","price":{"$numberInt":"150"},"quantity":"4","category":"רהיטים"}
+{"_id":{"$oid":"5af027de291a8a2478e7e14e"},"code":"161028","name":"שלישיית שולחנות עץ","price":{"$numberInt":"300"},"quantity":"4","category":"רהיטים"}
+{"_id":{"$oid":"5af028f6291a8a2478e7e14f"},"code":"1760051","name":"מתלה אופניים 5 ווים","price":{"$numberInt":"128"},"quantity":"1","category":"אקססוריז"}
+{"_id":{"$oid":"5af02909291a8a2478e7e150"},"code":"1760052","name":"מתלה אופניים 3 ווים","price":{"$numberInt":"85"},"quantity":"1","category":"אקססוריז"}
+{"_id":{"$oid":"5af02938291a8a2478e7e151"},"code":"1761162","name":"מעמד עציץ קטן","price":{"$numberInt":"139"},"quantity":"2","category":"פרחים ועציצים"}
+{"_id":{"$oid":"5af02947291a8a2478e7e152"},"code":"1761161","name":"מעמד עציץ גדול","price":{"$numberInt":"169"},"quantity":"3","category":"פרחים ועציצים"}
+{"_id":{"$oid":"5af0299d291a8a2478e7e153"},"code":"1750185","name":"כד זהב רצפה רחב","price":{"$numberInt":"289"},"quantity":"2","category":"אקססוריז"}
+{"_id":{"$oid":"5af029b7291a8a2478e7e154"},"code":"1750165","name":"כד רצפה זהב ארוך","price":{"$numberInt":"239"},"quantity":"1","category":"אקססוריז"}
+{"_id":{"$oid":"5af029ef291a8a2478e7e155"},"code":"175341","name":"שולחן זהב גיאומטרי","price":{"$numberInt":"420"},"quantity":"1","category":"רהיטים"}
+{"_id":{"$oid":"5af0305e291a8a2478e7e156"},"code":"176361","name":"מפיון אננס","price":{"$numberInt":"25"},"quantity":"בערך 10","category":"כללי"}
+{"_id":{"$oid":"5af03082291a8a2478e7e157"},"code":"175721","name":"מעמד לנייר סופג אננס","price":{"$numberInt":"49"},"quantity":"בערך 10","category":"כללי"}
+{"_id":{"$oid":"5af030f6291a8a2478e7e158"},"code":"1758031","name":"מסגרת תמונה אינדיאנית גדולה","price":{"$numberInt":"105"},"quantity":"1","category":"אקססוריז"}
+{"_id":{"$oid":"5af0311f291a8a2478e7e159"},"code":"1758032","name":"מסגרת תמונה אינדיאנית קטנה","price":{"$numberInt":"88"},"quantity":"1","category":"אקססוריז"}
+{"_id":{"$oid":"5af03143291a8a2478e7e15a"},"code":"176050","name":"מסגרת תמונה אינדיאנית חומה","price":{"$numberInt":"105"},"quantity":"2","category":"אקססוריז"}
+{"_id":{"$oid":"5af03203291a8a2478e7e15b"},"code":"812","name":"שעון חול גדול","price":{"$numberInt":"189"},"quantity":"3","category":"אקססוריז"}
+{"_id":{"$oid":"5af0321a291a8a2478e7e15c"},"code":"813","name":"שעון חול מעוטר קטן","price":{"$numberInt":"163"},"quantity":"5","category":"אקססוריז"}
+{"_id":{"$oid":"5af03231291a8a2478e7e15d"},"code":"814","name":"שעון חול מעוטר גדול","price":{"$numberInt":"210"},"quantity":"2","category":"אקססוריז"}
+{"_id":{"$oid":"5af032a0291a8a2478e7e15e"},"code":"1004","name":"תמונה love+לב","price":{"$numberInt":"38"},"quantity":"4","category":"אקססוריז"}
+{"_id":{"$oid":"5af032ba291a8a2478e7e15f"},"code":"1005","name":"2 תמונות+ווים","price":{"$numberInt":"55"},"quantity":"11","category":"אקססוריז"}
+{"_id":{"$oid":"5af032f9291a8a2478e7e160"},"code":"1006","name":"מסגרת תמונה ים","price":{"$numberInt":"48"},"quantity":"12","category":"אקססוריז"}
+{"_id":{"$oid":"5af03320291a8a2478e7e161"},"code":"942","name":"מנדלה קטנה לב","price":{"$numberInt":"24"},"quantity":"קרטון","category":"אקססוריז"}
+{"_id":{"$oid":"5af0332f291a8a2478e7e162"},"code":"943","name":"מנדלה קטנה ציפור","price":{"$numberInt":"24"},"quantity":"קרטון","category":"אקססוריז"}
+{"_id":{"$oid":"5af0333d291a8a2478e7e163"},"code":"944","name":"מנדלה קטנה פרפר","price":{"$numberInt":"24"},"quantity":"קרטון","category":"אקססוריז"}
+{"_id":{"$oid":"5af0335c291a8a2478e7e164"},"code":"945","name":"מנדלה קטנה שמש","price":{"$numberInt":"24"},"quantity":"קרטון","category":"אקססוריז"}
+{"_id":{"$oid":"5af033de291a8a2478e7e165"},"code":"735","name":"שעון עץ הגה גדול ועוגן","price":{"$numberInt":"109"},"quantity":"2","category":"שעונים"}
+{"_id":{"$oid":"5af03430291a8a2478e7e166"},"code":"871","name":"סט אוכל ילדים","price":{"$numberInt":"46"},"quantity":"5","category":"כללי"}
+{"_id":{"$oid":"5af03523291a8a2478e7e167"},"code":"872","name":"סט קנקן וכוסות במבוק","price":{"$numberInt":"115"},"quantity":"7","category":"כללי"}
+{"_id":{"$oid":"5af03554291a8a2478e7e168"},"code":"873","name":"מגש עגול במבוק","price":{"$numberInt":"35"},"quantity":"2","category":"כללי"}
+{"_id":{"$oid":"5af0358f291a8a2478e7e169"},"code":"874","name":"צלחת גדולה שטוחה","price":{"$numberInt":"20"},"quantity":"8","category":"כללי"}
+{"_id":{"$oid":"5af035a1291a8a2478e7e16a"},"code":"875","name":"צלחת גדולה עמוקה","price":{"$numberInt":"17"},"quantity":"20","category":"כללי"}
+{"_id":{"$oid":"5af035bd291a8a2478e7e16b"},"code":"878","name":"קערה קטנה","price":{"$numberInt":"11"},"quantity":"10","category":"כללי"}
+{"_id":{"$oid":"5af035fe291a8a2478e7e16c"},"code":"880","name":"מגש אוכל קטן","price":{"$numberInt":"21"},"quantity":"3","category":"כללי"}
+{"_id":{"$oid":"5af03612291a8a2478e7e16d"},"code":"881","name":"מגש אוכל גדול","price":{"$numberInt":"32"},"quantity":"3","category":"כללי"}
+{"_id":{"$oid":"5af03625291a8a2478e7e16e"},"code":"884","name":"מגש מלבני","price":{"$numberInt":"28"},"quantity":"19","category":"כללי"}
+{"_id":{"$oid":"5af0367d291a8a2478e7e16f"},"code":"995","name":"סט שלישית תמונות פרחים","price":{"$numberInt":"140"},"quantity":"2","category":"אקססוריז"}
+{"_id":{"$oid":"5af0369b291a8a2478e7e170"},"code":"996","name":"תמונת פלמינגו","price":{"$numberInt":"70"},"quantity":"6","category":"אקססוריז"}
+{"_id":{"$oid":"5af036b5291a8a2478e7e171"},"code":"997","name":"תמונת עלים","price":{"$numberInt":"70"},"quantity":"3","category":"אקססוריז"}
+{"_id":{"$oid":"5af036ea291a8a2478e7e172"},"code":"998","name":"זוג תמונות עלה זהב","price":{"$numberInt":"389"},"quantity":"3","category":"אקססוריז"}
+{"_id":{"$oid":"5af03722291a8a2478e7e173"},"code":"729","name":"מכתביה mail","price":{"$numberInt":"99"},"quantity":"1","category":"אקססוריז"}
+{"_id":{"$oid":"5af037a8291a8a2478e7e174"},"code":"793","name":"מכתביה כחולה לב+ווים","price":{"$numberInt":"79"},"quantity":"1","category":"אקססוריז"}
+{"_id":{"$oid":"5af03803291a8a2478e7e175"},"code":"811","name":"מתלה לב ורוד/תכלת","price":{"$numberInt":"11"},"quantity":"קרטון מכל צבע","category":"אקססוריז"}
+{"_id":{"$oid":"5af0381a291a8a2478e7e176"},"code":"810","name":"מתלה לב love","price":{"$numberInt":"14"},"quantity":"2 קרטונים","category":"אקססוריז"}
+{"_id":{"$oid":"5af0386b291a8a2478e7e177"},"code":"957","name":"שלישיית קופסאות sweet home","price":{"$numberInt":"150"},"quantity":"1","category":"אקססוריז"}
+{"_id":{"$oid":"5af03896291a8a2478e7e178"},"code":"969","name":"שלט לבן home","price":{"$numberInt":"17"},"quantity":"קרטון","category":"אקססוריז"}
+{"_id":{"$oid":"5af038c2291a8a2478e7e179"},"code":"968","name":"שלט לבן love","price":{"$numberInt":"17"},"quantity":"קרטון","category":"אקססוריז"}
+{"_id":{"$oid":"5af038fa291a8a2478e7e17a"},"code":"972","name":"זוג מגשים לבן עץ","price":{"$numberInt":"129"},"quantity":"1","category":"כללי"}
+{"_id":{"$oid":"5af0394f291a8a2478e7e17b"},"code":"980","name":"6 מגירות גונגל","price":{"$numberInt":"160"},"quantity":"2","category":"אקססוריז"}
+{"_id":{"$oid":"5af03965291a8a2478e7e17c"},"code":"981","name":"3 מגירות גונגל צר","price":{"$numberInt":"120"},"quantity":"1","category":"אקססוריז"}
+{"_id":{"$oid":"5af03973291a8a2478e7e17d"},"code":"982","name":"3 מגירות גונגל","price":{"$numberInt":"140"},"quantity":"1","category":"אקססוריז"}
+{"_id":{"$oid":"5af03a08291a8a2478e7e17f"},"code":"1032","name":"מגירות עץ אחת","price":{"$numberInt":"279"},"quantity":"1","category":"רהיטים"}
+{"_id":{"$oid":"5af03a34291a8a2478e7e180"},"code":"1030","name":"3 מגירות מעץ","price":{"$numberInt":"190"},"quantity":"1","category":"רהיטים"}
+{"_id":{"$oid":"5af03a53291a8a2478e7e181"},"code":"984","name":"שולחן בול עץ גדול","price":{"$numberInt":"159"},"quantity":"2","category":"רהיטים"}
+{"_id":{"$oid":"5af03a91291a8a2478e7e182"},"code":"661","name":"זכוכית שחורה קטנה","price":{"$numberInt":"55"},"quantity":"6","category":"זכוכיות"}
+{"_id":{"$oid":"5af03aa2291a8a2478e7e183"},"code":"662","name":"זכוכית שחורה גדולה","price":{"$numberInt":"71"},"quantity":"3","category":"זכוכיות"}
+{"_id":{"$oid":"5af03ab9291a8a2478e7e184"},"code":"668","name":"ואזת זכוכית קטנה","price":{"$numberInt":"39"},"quantity":"5","category":"זכוכיות"}
+{"_id":{"$oid":"5af03b2a291a8a2478e7e185"},"code":"111","name":"אותיות home","price":{"$numberInt":"47"},"quantity":"11","category":"אקססוריז"}
+{"_id":{"$oid":"5af03b42291a8a2478e7e186"},"code":"112","name":"אותיות love","price":{"$numberInt":"47"},"quantity":"23","category":"אקססוריז"}
+{"_id":{"$oid":"5af03bf6291a8a2478e7e187"},"code":"170588","name":"שולחן זהב פרח","price":{"$numberInt":"299"},"quantity":"1","category":"רהיטים"}
+{"_id":{"$oid":"5af03cd2291a8a2478e7e188"},"code":"170236","name":"מדפי עץ קונכיות ","price":{"$numberInt":"196"},"quantity":"5","category":"מדפים"}
+{"_id":{"$oid":"5af03d95291a8a2478e7e189"},"code":"257","name":"פרח בכלי לבן","price":{"$numberInt":"20"},"quantity":"50","category":"פרחים ועציצים"}
+{"_id":{"$oid":"5af03db8291a8a2478e7e18a"},"code":"268","name":"קרמיקה קטנה","price":{"$numberInt":"25"},"quantity":"3","category":"אקססוריז"}
+{"_id":{"$oid":"5af03f95291a8a2478e7e18b"},"code":"412","name":"דוצ 3 תמונות נפתח","price":{"$numberInt":"39"},"quantity":"5","category":"אקססוריז"}
+{"_id":{"$oid":"5af03fb1291a8a2478e7e18c"},"code":"58","name":"אננס דקורטיבי","price":{"$numberInt":"8"},"quantity":"4","category":"אקססוריז"}
+{"_id":{"$oid":"5af03fc4291a8a2478e7e18d"},"code":"582","name":"תפוח דקורטיבי","price":{"$numberInt":"4"},"quantity":"15","category":"אקססוריז"}
+{"_id":{"$oid":"5af03fe3291a8a2478e7e18e"},"code":"411","name":"דוצ 2 תמונות נפתח","price":{"$numberInt":"28"},"quantity":"4","category":"אקססוריז"}
+{"_id":{"$oid":"5af04006291a8a2478e7e18f"},"code":"407","name":"מסגרת תמונה דוצ בינוני","price":{"$numberInt":"28"},"quantity":"9","category":"אקססוריז"}
+{"_id":{"$oid":"5af0401b291a8a2478e7e190"},"code":"406","name":"מסגרת תמונה דוצ קטן","price":{"$numberInt":"18"},"quantity":"6","category":"אקססוריז"}
+{"_id":{"$oid":"5af18733291a8a2478e7e191"},"code":"339+338","name":"נר בקופסא סגורה","price":{"$numberInt":"42"},"quantity":"7","category":"אקססוריז"}
+{"_id":{"$oid":"5af1874e291a8a2478e7e192"},"code":"820","name":"רביעיית ברווזונים","price":{"$numberInt":"104"},"quantity":"קרטון","category":"אקססוריז"}
+{"_id":{"$oid":"5af1876d291a8a2478e7e193"},"code":"1045","name":"מסגרת תמונה רטרו","price":{"$numberInt":"50"},"quantity":"3","category":"אקססוריז"}
+{"_id":{"$oid":"5af187c2291a8a2478e7e194"},"code":"937","name":"מובייל גדול+קריסטל","price":{"$numberInt":"76"},"quantity":"3","category":"אקססוריז"}
+{"_id":{"$oid":"5af2cd08291a8a2478e7e195"},"code":"260149","name":"ואזה שחור זהב רחבה","price":{"$numberInt":"185"},"quantity":"4","category":"זכוכיות"}
+{"_id":{"$oid":"5af2cd21291a8a2478e7e196"},"code":"249449","name":"ואזה שחור זהב צרה","price":{"$numberInt":"175"},"quantity":"4","category":"זכוכיות"}
+{"_id":{"$oid":"5af2cd21291a8a2478e7e197"},"code":null,"name":null,"price":null,"quantity":null,"category":null}
+{"_id":{"$oid":"5af2cd3a291a8a2478e7e198"},"code":"170140","name":"ואזה כסופה פסים","price":{"$numberInt":"99"},"quantity":"2","category":"זכוכיות"}
+{"_id":{"$oid":"5af2cd52291a8a2478e7e199"},"code":"307634","name":"כוס מרטיני","price":{"$numberInt":"70"},"quantity":"4","category":"זכוכיות"}
+{"_id":{"$oid":"5af2cd52291a8a2478e7e19a"},"code":null,"name":null,"price":null,"quantity":null,"category":null}
+{"_id":{"$oid":"5af2cd65291a8a2478e7e19b"},"code":"332140","name":"כוס יין","price":{"$numberInt":"83"},"quantity":"5","category":"זכוכיות"}
+{"_id":{"$oid":"5af2cd77291a8a2478e7e19c"},"code":"304950","name":"כוס שמפניה","price":{"$numberInt":"73"},"quantity":"3","category":"זכוכיות"}
+{"_id":{"$oid":"5af2cd99291a8a2478e7e19d"},"code":"161620","name":"ואזה כדור קטן","price":{"$numberInt":"72"},"quantity":"3","category":"זכוכיות"}
+{"_id":{"$oid":"5af2cdae291a8a2478e7e19e"},"code":"161625","name":"ואזה כדור בינוני","price":{"$numberInt":"95"},"quantity":"6","category":"זכוכיות"}
+{"_id":{"$oid":"5af2cdd4291a8a2478e7e19f"},"code":"161630","name":"ואזה כדור גדול","price":{"$numberInt":"134"},"quantity":"4","category":"זכוכיות"}
+{"_id":{"$oid":"5af2cdef291a8a2478e7e1a0"},"code":"195418","name":"ואזה קטנה עגולה","price":{"$numberInt":"49"},"quantity":"10","category":"זכוכיות"}
+{"_id":{"$oid":"5af2ce0b291a8a2478e7e1a1"},"code":"309220","name":"ואזה רגלית שמנה קטנה","price":{"$numberInt":"62"},"quantity":"5","category":"זכוכיות"}
+{"_id":{"$oid":"5af2ce23291a8a2478e7e1a2"},"code":"301618","name":"ואזה רגלית צרה קטנה","price":{"$numberInt":"65"},"quantity":"6","category":"זכוכיות"}
+{"_id":{"$oid":"5af2cec5291a8a2478e7e1a3"},"code":"170109/2","name":"אגרטל עץ קטן","price":{"$numberInt":"75"},"quantity":"2","category":"אקססוריז"}
+{"_id":{"$oid":"5af2ced9291a8a2478e7e1a4"},"code":"170109/1","name":"אגרטל עץ גדול","price":{"$numberInt":"95"},"quantity":"5","category":"אקססוריז"}
+{"_id":{"$oid":"5af2cf05291a8a2478e7e1a5"},"code":"1701392","name":"אגרטל עץ צר קטן","price":{"$numberInt":"91"},"quantity":"7","category":"אקססוריז"}
+{"_id":{"$oid":"5af2cf1d291a8a2478e7e1a6"},"code":"1701391","name":"אגרטל עץ צר גדול","price":{"$numberInt":"110"},"quantity":"6","category":"אקססוריז"}
+{"_id":{"$oid":"5af2cf85291a8a2478e7e1a8"},"code":"416635","name":"ואזה+מכסה גדול","price":{"$numberInt":"117"},"quantity":"8","category":"זכוכיות"}
+{"_id":{"$oid":"5af2cfb5291a8a2478e7e1a9"},"code":"416627","name":"ואזה+מכסה קטן","price":{"$numberInt":"95"},"quantity":"15","category":"זכוכיות"}
+{"_id":{"$oid":"5af2d00e291a8a2478e7e1aa"},"code":"406525","name":"ואזה+מכסה שחור נקודות קטנה","price":{"$numberInt":"100"},"quantity":"2","category":"זכוכיות"}
+{"_id":{"$oid":"5af2d023291a8a2478e7e1ab"},"code":"406533","name":"ואזה+מכסה שחור נקודות גדולה","price":{"$numberInt":"144"},"quantity":"4","category":"זכוכיות"}
+{"_id":{"$oid":"5af2d036291a8a2478e7e1ac"},"code":"170119","name":"אגרטל קונכיה שוכבת","price":{"$numberInt":"91"},"quantity":"2","category":"אקססוריז"}
+{"_id":{"$oid":"5af2d396291a8a2478e7e1ad"},"code":"160240","name":"ואזה זהב גבוהה","price":{"$numberInt":"76"},"quantity":"7","category":"זכוכיות"}
+{"_id":{"$oid":"5af2d3a9291a8a2478e7e1ae"},"code":"309225","name":"ואזה רגלית שמנה","price":{"$numberInt":"70"},"quantity":"2","category":"זכוכיות"}
+{"_id":{"$oid":"5af2d3bd291a8a2478e7e1af"},"code":"301625","name":"ואזה רגלית צרה","price":{"$numberInt":"80"},"quantity":"2","category":"זכוכיות"}
