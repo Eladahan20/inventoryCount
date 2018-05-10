@@ -1,0 +1,36 @@
+<div class="container">
+  <div class="row justify-content-around mt-4">
+    
+<form (ngSubmit)="addProduct(product.value);product.reset()" #product="ngForm" class="col-lg-4" style="direction: rtl">
+    <h4 class="mb-3" style="text-align: center">הוסף פריט</h4>
+    <div class="form-group">
+      <input type="text" class="form-control" name="code" placeholder="מקט" ngModel>
+    </div>
+    <div class="form-group">
+        <input type="text" class="form-control" name="name" placeholder="שם המוצר" ngModel> 
+      </div>
+    <div class="form-group">
+        <input type="number" class="form-control" name="price" placeholder="מחיר" ngModel>
+      </div>
+    <div class="form-group">
+          <input type="text" class="form-control" name="quantity" placeholder="כמות" ngModel>
+    </div>
+    <div class="form-group">
+      <label for="exampleSelect1" style="float: right">בחר קטגוריה</label>
+      <select name="category" class="form-control" id="exampleSelect1" ngModel>
+        <option value="כללי">כללי</option>
+        <option value="כריות">כריות</option>
+        <option value="מראות">מראות</option>
+        <option value="רהיטים">רהיטים</option>
+        <option value="פרחים ועציצים">פרחים ועציצים</option>
+        <option value="שעונים">שעונים</option>
+        <option value="זכוכיות">זכוכיות</option>
+        <option value="פמוטים">פמוטים</option>
+        <option value="אקססוריז">אקססוריז</option>
+        <option value="מדפים">מדפים</option>       
+      </select>
+    </div>
+    <button type="submit" class="btn btn-success btn-block">הוסף</button>
+  </form>
+</div>
+</div>
