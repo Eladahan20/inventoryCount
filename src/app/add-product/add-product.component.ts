@@ -7,7 +7,7 @@ import { DataService } from '../data.service';
   styleUrls: ['./add-product.component.css']
 })
 export class AddProductComponent implements OnInit {
-
+  routes: any;
   constructor(private _dataService: DataService) { }
 
   ngOnInit() {

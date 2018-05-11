@@ -69,4 +69,19 @@ router.delete('/product/:_id', function(req, res){
     });
 });
 
+router.put('/product', function(req, res){
+    var product = {"_id" : new ObjectID(req.body._id) };
+    connection((db) => {
+        db.collection('products') 
+            .findOneAndUpdate(product, {$set: {"name":req.body.name , "code": req.body.code, "price": req.body.price, "quantity": req.body.quantity, "category":req.body.category}} , { new:true }, (err,todo) => {
+                if(err){
+                return res.json({'success':false,'message':'Some Error','error':err});
+                }
+                console.log(todo);
+                return res.json({'success':true,'message':'Updated successfully',todo});
+              });
+    });
+
+});
+
 module.exports = router;

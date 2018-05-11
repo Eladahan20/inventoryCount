@@ -22,5 +22,9 @@ export class DataService {
     return this._http.delete("/api/product/" + product._id)
     .map(result => this.result = result.json().data);
   }
+  modifyProduct(product) {
+    return this._http.put("/api/product", product)
+    .map(result => this.result = result.json().data);
+  }
 
 }

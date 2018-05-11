@@ -1,0 +1,7 @@
+table > thead > th {
+    float: right;
+}
+
+table > tbody > td {
+    float: right;
+}

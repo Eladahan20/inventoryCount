@@ -1,46 +1,73 @@
 <div class="container">
-      <div class="col-12" style="overflow-x: scroll">
-  <h3 class="text-center p-3">רשימת מוצרים</h3>
-  <div class="row justify-content-around mt-3">
-    <div class="col-lg-5 input-group mb-3">
-      <input type="text" class="form-control" aria-label="Text input with dropdown button" placeholder="חפש"
-      #searchInput (keyup)="onKeyUp(searchInput.value)">
-      <select class="custom-select col-3" id="inputGroupSelect01"
-      [(ngModel)]="searchCategory">
-          <option value="code" >קוד מוצר</option>
+  <div class="col-12" style="overflow-x: scroll">
+    <h3 class="text-center p-3">רשימת מוצרים</h3>
+    <div class="row justify-content-around mt-3">
+      <div class="col-lg-5 input-group mb-3">
+        <input type="text" class="form-control" aria-label="Text input with dropdown button" placeholder="חפש" #searchInput (keyup)="onKeyUp(searchInput.value)">
+        <select class="custom-select col-3" id="inputGroupSelect01" [(ngModel)]="searchCategory">
+          <option value="code">קוד מוצר</option>
           <option value="name">שם מוצר</option>
           <option value="category">קטגוריה</option>
         </select>
+      </div>
     </div>
-  </div>
 
-  <table class="table table-striped table-bordered">
-    <thead>
-      <tr class="ml-auto">
-        <th  scope="col">#</th>
-        <th  scope="col">קטגוריה</th>
-        <th scope="col">קוד מוצר</th>
-        <th scope="col">תיאור</th>
-        <th scope="col">מחיר</th>
-        <th scope="col">כמות</th>
-        <th scope="col">פעולות</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr *ngFor="let product of products; let i = index">
-        <th scope="row">{{ i+1 }}</th>
-        <td>{{ product.category }}</td>
-        <td>{{ product.code }}</td>
-        <td>{{ product.name }}</td>
-        <td>{{ product.price }}</td>
-        <td>{{ product.quantity }}</td>
-        <td><p data-placement="top" data-toggle="tooltip" title="Delete">
-          <button class="btn btn-danger" (click) = "deleteProduct(product)" data-title="Delete" data-toggle="modal" data-target="#delete" >
-              <i class="fas fa-trash"></i></button>
-            </p>
+    <table class="table table-striped table-bordered" style="text-align: right; table-layout: fixed;">
+      <thead>
+        <tr class="ml-auto">
+          <th scope="col">#</th>
+          <th scope="col">קטגוריה</th>
+          <th scope="col">קוד מוצר</th>
+          <th scope="col">תיאור</th>
+          <th scope="col">מחיר</th>
+          <th scope="col">כמות</th>
+          <th scope="col">פעולות</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let product of products; let i = index">
+          <th scope="row" (click)="showDetails(product, i)">{{ i+1 }}</th>
+          <td *ngIf="!product.isEditable">{{ product.category }}</td>
+          <td *ngIf="product.isEditable">
+            <input type="text" size="9" value="{{ product.category }}" [(ngModel)]="editedProduct.category">
           </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+          <td *ngIf="!product.isEditable">{{ product.code }}</td>
+          <td *ngIf="product.isEditable">
+            <input type="text" size="9" value="{{ product.code }}" [(ngModel)]="editedProduct.code">
+          </td>
+          <td *ngIf="!product.isEditable">{{ product.name }}</td>
+          <td *ngIf="product.isEditable">
+            <input type="text" size="12" value="{{ product.name }}" [(ngModel)]="editedProduct.name">
+          </td>
+          <td *ngIf="!product.isEditable">{{ product.price }}</td>
+          <td *ngIf="product.isEditable">
+            <input type="text" size="3" value="{{ product.price }}" [(ngModel)]="editedProduct.price">
+          </td>
+          <td *ngIf="!product.isEditable">{{ product.quantity }}</td>
+          <td *ngIf="product.isEditable">
+            <input type="text" size="3" value="{{ product.quantity }}" [(ngModel)]="editedProduct.quantity">
+          </td>
+          <td style="text-align: center">
+            <span data-placement="top" data-toggle="tooltip" title="Edit">
+              <button *ngIf="!product.isEditable" class="btn btn-warning" (click)="editProduct(product)" data-title="Edit" data-toggle="modal"
+                data-target="#Edit">
+                <i class="fas fa-edit"></i>
+              </button>
+              <button *ngIf="product.isEditable" class="btn btn-block btn-success" (click)="editProduct(product)" data-title="Send" data-toggle="modal"
+                data-target="#Edit">
+                <i class="far fa-paper-plane"></i>
+              </button>
+            </span>
+            <span *ngIf="!product.isEditable" data-placement="top" data-toggle="tooltip" title="Delete">
+              <button class="btn btn-danger" (click)="deleteProduct(product)" data-title="Delete" data-toggle="modal" data-target="#delete">
+                <i class="fas fa-trash"></i>
+              </button>
+            </span>
+
+
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 </div>
